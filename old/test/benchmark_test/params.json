@@ -1,0 +1,32 @@
+{
+    "DJI_0001.JPG": {
+        "lat": 55.751244,
+        "lon": 37.618423,
+        "height": 100.0,
+        "azimuth": 90.0,
+        "pitch": -30.0,
+        "roll": 0.0,
+        "yaw": 0.0,
+        "cam_angle": 45.0
+    },
+    "DJI_0002.JPG": {
+        "lat": 55.751744,
+        "lon": 37.618923,
+        "height": 100.0,
+        "azimuth": 95.0,
+        "pitch": -30.0,
+        "roll": 0.0,
+        "yaw": 0.0,
+        "cam_angle": 45.0
+    },
+    "DJI_0003.JPG": {
+        "lat": 55.752244,
+        "lon": 37.619423,
+        "height": 100.0,
+        "azimuth": 100.0,
+        "pitch": -30.0,
+        "roll": 0.0,
+        "yaw": 0.0,
+        "cam_angle": 45.0
+    }
+}
